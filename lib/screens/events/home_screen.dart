@@ -2,7 +2,6 @@
 import 'package:flutter/material.dart';
 import 'package:event_organizer/screens/events/events_list_screen.dart';
 import 'package:event_organizer/screens/profile/profile_screen.dart';
-import 'package:event_organizer/screens/chat/chat_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
